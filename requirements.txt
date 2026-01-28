@@ -1,0 +1,10 @@
+python-telegram-bot>=20.0
+python-dotenv
+apscheduler
+pytz
+ccxt
+pandas
+ta
+numpy
+yfinance
+feedparser

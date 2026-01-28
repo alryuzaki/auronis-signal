@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Database
+*.db
+*.sqlite3
+bot_data.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Testing
+test_db.db
+test_integrity.py
